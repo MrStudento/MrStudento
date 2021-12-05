@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @MrStudento
-- 👀 I’m interested in web developmant
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Eshmamatov Doniyor
+O'zbekiston Milliy Universiteti talabasi
 
 <!---
 MrStudento/MrStudento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
